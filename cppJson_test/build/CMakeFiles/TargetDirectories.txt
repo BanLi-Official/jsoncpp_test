@@ -1,0 +1,5 @@
+/mnt/hgfs/VMshared/code/c++/cppJson_test/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/VMshared/code/c++/cppJson_test/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/VMshared/code/c++/cppJson_test/build/src/CMakeFiles/main.dir
+/mnt/hgfs/VMshared/code/c++/cppJson_test/build/src/CMakeFiles/edit_cache.dir
+/mnt/hgfs/VMshared/code/c++/cppJson_test/build/src/CMakeFiles/rebuild_cache.dir

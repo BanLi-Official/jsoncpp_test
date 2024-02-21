@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/hgfs/VMshared/code/c++/cppJson_test/build/src",
+  "command": "/usr/bin/g++  -I/mnt/hgfs/VMshared/code/c++/cppJson_test/include -g -o CMakeFiles/main.dir/main.cpp.o -c /mnt/hgfs/VMshared/code/c++/cppJson_test/src/main.cpp",
+  "file": "/mnt/hgfs/VMshared/code/c++/cppJson_test/src/main.cpp",
+  "output": "src/CMakeFiles/main.dir/main.cpp.o"
+}
+]
